@@ -1,0 +1,11 @@
+[ 2025-04-05 22:51:48,049]27 root - INFO - Entered the data ingestion method or component
+[ 2025-04-05 22:51:48,052]30 root - INFO - Read the dataset as dataframe
+[ 2025-04-05 22:51:48,056]36 root - INFO - Train test split initiated
+[ 2025-04-05 22:51:48,059]42 root - INFO - Ingestion of data is completed
+[ 2025-04-05 22:51:48,081]83 root - INFO - read train and test data completed
+[ 2025-04-05 22:51:48,081]85 root - INFO - obtaining preprocessing object
+[ 2025-04-05 22:51:48,081]61 root - INFO - numerical columns standard scaling completed
+[ 2025-04-05 22:51:48,081]63 root - INFO - Categorical columns encoding completed
+[ 2025-04-05 22:51:48,135]99 root - INFO - applying preprocessing og=bject on training dataframe and testing dataframe.
+[ 2025-04-05 22:51:48,165]112 root - INFO - Saving preprocessor object to: artifacts\preprocessor.pkl
+[ 2025-04-05 22:51:48,169]35 root - INFO - Splitting training and test input data
